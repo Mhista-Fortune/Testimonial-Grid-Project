@@ -49,16 +49,6 @@ body {
   align-self: flex-start;
   float: none;
 }
-/* .card--daniel::before {
-  content: "“";
-  position: absolute;
-  top: 1rem;
-  right: 2rem;
-  font-size: 8rem;
-  color: rgba(255,255,255,0.15);
-  z-index: 0;
-  pointer-events: none;
-} */
 
 .card--jonathan {
   background: hsl(217, 19%, 35%);
@@ -140,7 +130,7 @@ body {
 .attribution {
   /* margin-top: 2rem; */
   text-align: center;
-  font-size: 13px;
+  font-size: 11px;
   color: hsl(228, 45%, 44%);
 }
 
