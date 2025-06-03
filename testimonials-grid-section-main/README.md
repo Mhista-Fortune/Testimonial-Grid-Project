@@ -33,7 +33,7 @@ Users should be able to:
 ## Links
 
 - [Solution on Frontend Mentor](#)
-- [Live Site](#)
+- [Live Site](https://testimonial-grid-project-ebon.vercel.app/)
 
 ## Built With
 
@@ -63,7 +63,7 @@ Enhance user experience by adding interactive effects (like 3D card rotation on 
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/testimonials-grid-section-main.git
+   git clone https://github.com/Mhista-Fortune/Testimonial-Grid-Project/tree/main/testimonials-grid-section-main
    ```
 2. Open `index.html` in your browser to view the project.
 3. To customize, edit the HTML, CSS, or JS files as needed.
@@ -71,7 +71,7 @@ Enhance user experience by adding interactive effects (like 3D card rotation on 
 ## Author
 
 - Solution by [Mhista Fortune](#)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/your-username)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Mhista-Fortune)
 
 ## Acknowledgments
 
